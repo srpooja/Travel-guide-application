@@ -3,6 +3,7 @@ Travel guide application is an Android project. It allows the user to navigate t
 
 ![Screenshot_20200330-112856](https://user-images.githubusercontent.com/62821270/77918354-65c2c180-72b9-11ea-8c1c-68d5ac1a0624.png)
 ![Screenshot_20200330-112921](https://user-images.githubusercontent.com/62821270/77918380-707d5680-72b9-11ea-9f17-f1f55c8126e1.png)
+![Screenshot_20200330-194630](https://user-images.githubusercontent.com/62821270/77925498-8c392a80-72c2-11ea-92c3-c7edef5c0a40.png)
 ![Screenshot_20200330-112938](https://user-images.githubusercontent.com/62821270/77918393-76733780-72b9-11ea-84ec-07801ea6ad57.png)
 ![Screenshot_20200330-112945](https://user-images.githubusercontent.com/62821270/77918419-7ecb7280-72b9-11ea-9fe3-d092f1070d92.png)
 ![Screenshot_20200330-184526](https://user-images.githubusercontent.com/62821270/77918462-8d198e80-72b9-11ea-95ae-c183c458d2b6.png)
